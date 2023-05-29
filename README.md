@@ -1,2 +1,2 @@
-# .github
-VRoomの開発リポジトリ
+# VRoomの開発リポジトリ
+VRoomの開発リポジトリです！
